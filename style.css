@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: aquamarine;
+}
+.line{
+    height: 60px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#game{
+    background-color: cornflowerblue;
+}
